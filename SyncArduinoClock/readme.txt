@@ -7,3 +7,5 @@ Download TimeSerial.pde onto Arduino and you should see the time
 message displayed when you run SyncArduinoClock in Processing.
 The Arduino time is set from the time on your computer through the 
 Processing sketch. 
+
+The FTDI cable orientation is GND at the top.
